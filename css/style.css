@@ -1,0 +1,17 @@
+body {
+    background-color: fuchsia;
+}
+
+h1, p {
+    color: lawngreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+/* Cursive ==> Simula escritura humana */
+/* Monospace ==> Cada caracter tiene el mismo ancho, similar a las consolas */
+
+h2 {
+    color: #0005fa;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
